@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Src/" />
+  <Folder Name="/Src/Core/">
+    <Project Path="BookStore.Application/BookStore.Application.csproj" />
+    <Project Path="BookStore.Domian/BookStore.Domian.csproj" />
+  </Folder>
+  <Folder Name="/Src/Infrastructure/">
+    <Project Path="BookStore.Infrastructure/BookStore.Infrastructure.csproj" Id="f97b05b7-a85d-48fc-98b4-9e6d6add171e" />
+  </Folder>
+  <Folder Name="/Src/Presentation/">
+    <Project Path="BookStore.Api/BookStore.Api.csproj" Id="9b661420-47ed-4f5a-b523-37d95c09c796" />
+  </Folder>
+</Solution>
